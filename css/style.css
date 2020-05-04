@@ -186,16 +186,16 @@
   background-repeat: no-repeat;
 }
 .fade-carousel .slides .slide-1 {
-  background-image: url("../img/solor.jpg"); 
-  background-image: linear-gradient(rgb(21, 20, 17), rgba(0, 0, 0, 0.5)), url("../img/solor.jpg");
+  background-image: url("../img/slider.jpg"); 
+  background-image: linear-gradient(rgb(21, 20, 17), rgba(0, 0, 0, 0.5)), url("../img/slider.jpg");
 }
 .fade-carousel .slides .slide-2 {
    background-image: url("../img/solor1.jpg"); 
   background-image: linear-gradient(rgb(21, 20, 17), rgba(0, 0, 0, 0.5)), url("../img/solor1.jpg");
 }
 .fade-carousel .slides .slide-3 {
-  background-image: url("../img/solor3.jpg"); 
-  background-image: linear-gradient(rgb(21, 20, 17), rgba(0, 0, 0, 0.5)), url("../img/solor3.jpg");
+  background-image: url("../img/solor2.jpg"); 
+  background-image: linear-gradient(rgb(21, 20, 17), rgba(0, 0, 0, 0.5)), url("../img/solor2.jpg");
 }
 
 
